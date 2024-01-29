@@ -15,3 +15,5 @@ CodePath prework project! Introduction to key components of CodePath's course an
    - Multiple app icons based off of subscription or streak
    - Leaderboard to bring competitiveness
    - Multiple characters to bring more personality to the mascot and app
+
+I want to create an app that allows you to customize the icons on your iPhone more efficiently. If I can, I would really like to add an automatic feature where it will change all of the icons for the user, instead of the user having to got to Shortcuts and repeat the same process over 10 times. I also want to have a feature where a user can save icons in a collection, that way if they ever want to change them back to a certain theme they've previously had, they don't need to recreate them or search endlessly in their photo albums to find their previous icons. Customization would include changing the backgrounds of applications, with an automatic background detector they can adjust for more complex icon apps, a recommended theme based off of their interests (maybe through a photo survey?), and more!
